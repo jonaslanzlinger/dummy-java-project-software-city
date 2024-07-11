@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("Hello, World! 3.1");
         System.out.println("Hello, World! 3.2");
+
+        new Cat("Hubert").sayHello();
     }
 }
